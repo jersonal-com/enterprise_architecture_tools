@@ -1,0 +1,4 @@
+anytree==2.12.1
+latexbuild==0.2.2
+Pillow==11.1.0
+svgwrite==1.4.3
