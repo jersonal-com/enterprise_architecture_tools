@@ -110,7 +110,7 @@ class Tree2SVG:
 
 	def getbubblecolor(self, nid, name, last):
 		boxcolor = 'white'
-		value = self.get_value(nid,name,args.bubble)
+		value = self.get_value(nid,name,self.args.bubble)
 		print(nid, name, value)
 	
 		if value != "":
