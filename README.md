@@ -4,7 +4,7 @@ This is a tool that I have quickly put together to create capability
 maps for an enterprise architecture discussion. 
 
 To learn more about the usage of these maps have a look at my 
-website at https://enterprise-architecture-boom.com
+website at https://enterprise-architecture-book.com
 
 The tool is licensed under the [GPL version 3](https://www.gnu.org/licenses/gpl-3.0.html) or later. 
 
